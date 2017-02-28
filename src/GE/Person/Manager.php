@@ -10,18 +10,6 @@ namespace GE\Person;
 class Manager extends AbstractHuman implements ManagerInterface
 {
     private $projects;
-//
-//    /**
-//     * Manager constructor.
-//     * @param $projects
-//     * @param $name
-//     * @param $age
-//     */
-//    public function __construct($name, $age, $projects)
-//    {
-//        parent::__construct($name, $age);
-//        $this->projects = $projects;
-//    }
 
     /**
      * @return mixed
