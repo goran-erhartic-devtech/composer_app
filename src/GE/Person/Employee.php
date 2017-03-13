@@ -74,6 +74,4 @@ class Employee extends AbstractHuman implements EmployeeInterface
         }
         echo "<br>";
     }
-
-
 }

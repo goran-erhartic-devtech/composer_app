@@ -11,17 +11,6 @@ abstract class AbstractHuman
 {
     protected $name;
     protected $age;
-//
-//    /**
-//     * Human constructor.
-//     * @param $name
-//     * @param $age
-//     */
-//    public function __construct($name, $age)
-//    {
-//        $this->name = $name;
-//        $this->age = $age;
-//    }
 
     /**
      * @return mixed
